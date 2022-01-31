@@ -1,0 +1,25 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-01-31T06:19:17.701144Z",
+      "format": null,
+      "last_modified": "2022-01-31T06:18:12.475839Z",
+      "mimetype": null,
+      "name": "iwren.ipynb",
+      "path": "xeus-wren/iwren.ipynb",
+      "size": 3010,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2022-01-31T06:19:17.701144Z",
+  "format": "json",
+  "last_modified": "2022-01-31T06:19:17.701144Z",
+  "mimetype": null,
+  "name": "xeus-wren",
+  "path": "xeus-wren",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
